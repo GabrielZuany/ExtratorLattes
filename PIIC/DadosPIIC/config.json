@@ -1,0 +1,10 @@
+{
+    "ano_inicio": 2019,
+    "ano_fim": 2024,
+    "diretorio_resultados": "Resultados",
+    "arquivo_orientadores": "DadosPIIC/orientadores.csv",
+    "arquivo_maes_pesquisadoras": "DadosPIIC/maes-pesquisadoras.csv",
+    "diretorio_dos_curriculos": "DadosPIIC/Curriculos",
+    "tabela_de_configuracao": "DadosPIIC/tabela_edital_PIIC_2025.json",
+    "arquivo_qualis": "../Classificador/qualis-unificado.csv"
+}

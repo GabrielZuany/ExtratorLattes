@@ -1,0 +1,48 @@
+Rodolfo da Silva Villaca
+
+ 1 Autoria/coautoria de artigo completo em periódico       900  35   9 395
+   Qualis A1 e A2                                         
+ 2 Autoria/coautoria de artigo completo em periódico       900  25   2 395
+   Qualis A3 e A4                                         
+ 3 Autoria/coautoria de artigo completo em periódico       900  15   2 395
+   Qualis B1 e B2                                         
+ 4 Autoria/coautoria de artigo completo em periódico       900   5   0 395
+   Qualis B3 e B4                                         
+ 5 Autoria/coautoria de artigo completo em periódico       900   3   0 395
+   Qualis C                                               
+ 6 Autoria/coautoria de artigo completo em periódico que   900   2   0 395
+   não conste no Qualis CAPES                             
+ 7 Autoria/coautoria de livro especializado publicado com  200  20   0  10
+   ISBN                                                   
+ 8 Autoria/coautoria de capítulo de livro especializado    200  10   1  10
+   com ISBN                                               
+ 9 Organização de livro especializado com ISBN/ISSN         40  10   0   0
+10 Trabalho completo em eventos científicos internacionais 300  10  19 255
+11 Trabalho completo em eventos científicos nacionais,     300   5  13 255
+   regional ou local                                      
+12 Resumo em evento científico - internacional              50   2   1   2
+13 Resumo em evento científico - nacional, regional ou      50   1   0   2
+   local                                                  
+14 Tradução de livro especializado com ISBN                 30  10   0   0
+15 Artes cênicas                                           600  10   0   0
+16 Artes visuais                                           600  10   0   0
+17 Musica                                                  600  10   0   0
+18 Outra produção artística-cultural                       600   5   0   0
+19 Orientação de dissertação de mestrado defendida e        80  15   3  45
+   aprovada                                               
+20 Coorientação de dissertação de mestrado defendida e      10   2   4   8
+   aprovada                                               
+21 Orientação de tese de doutorado defendida e aprovada     80  20   1  20
+22 Coorientação de tese de doutorado defendida e aprovada   16   4   0   0
+23 Orientação de monografia de curso de                     10   2   0   0
+   aperfeiçoamento/especialização                         
+24 Orientação de trabalho de conclusão de curso de          40   5  11  40
+   graduação                                              
+25 Orientação concluída de iniciação científica (somente   250  10   4  40
+   estudantes de graduação)                               
+26 Registro ou depósito de patente ou cultivar              60  20   4  60
+27 Organização de eventos, congressos, exposições, feiras   50   5   0   0
+   ou olimpíadas                                          
+28 Entrevistas, mesas redondas, programas e comentários na  10   2   0   0
+   mídia                                                  
+SOMA                                                                   875

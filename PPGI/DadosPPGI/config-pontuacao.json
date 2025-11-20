@@ -1,0 +1,23 @@
+{
+    "prod-min": {
+        "intervalo": [2021, 2024],
+        "prod-min-qtd": 1,
+        "valid-tags": ["Periódico A1", "Periódico A2", "Periódico A3", "Periódico A4"],
+        "prod-min-tag": "Periódicos A1-A4"
+    },
+    "nota": {
+        "intervalo": [2023, 2024],
+        "nota-min": 2.25,
+        "nota-multiplo": 0.25,
+        "valores": [
+            {
+                "valor": 1,
+                "tags": ["Periódico A1", "Periódico A2", "Conferência A1", "Conferência A2"]
+            },
+            {
+               "valor": 0.75,
+               "tags": ["Periódico A3", "Periódico A4", "Conferência A3", "Conferência A4"]
+            }
+        ]
+    }
+}

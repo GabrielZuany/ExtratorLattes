@@ -1,0 +1,228 @@
+[
+    {
+        "limite": 900,
+        "itens": [
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico Qualis A1 e A2",
+                "valor": 35,
+                "tags": ["artigo_a1", "artigo_a2"]
+            },
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico Qualis A3 e A4",
+                "valor": 25,
+                "tags": ["artigo_a3", "artigo_a4"]
+            },
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico Qualis B1 e B2",
+                "valor": 15,
+                "tags": ["artigo_b1", "artigo_b2"]
+            },
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico Qualis B3 e B4",
+                "valor": 5,
+                "tags": ["artigo_b3", "artigo_b4"]
+            },
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico Qualis C",
+                "valor": 3,
+                "tags": ["artigo_c"]
+            },
+            {
+                "descricao": "Autoria/coautoria de artigo completo em periódico que não conste no Qualis CAPES",
+                "valor": 2,
+                "tags": ["artigo_nc"]
+            }
+        ]
+    },
+    {
+        "limite": 200,
+        "itens": [
+            {
+                "descricao": "Autoria/coautoria de livro especializado publicado com ISBN",
+                "valor": 20,
+                "tags": ["livro"]
+            },
+            {
+                "descricao": "Autoria/coautoria de capítulo de livro especializado com ISBN",
+                "valor": 10,
+                "tags": ["cap_livro"]
+            }
+        ]
+    },
+    {
+        "limite": 40,
+        "itens": [
+            {
+                "descricao": "Organização de livro especializado com ISBN/ISSN",
+                "valor": 10,
+                "tags": ["organizacao_livro"]
+            }
+        ]
+    },
+    {
+        "limite": 300,
+        "itens": [
+            {
+                "descricao": "Trabalho completo em eventos científicos internacionais",
+                "valor": 10,
+                "tags": ["trabalho_inter"]
+            },
+            {
+                "descricao": "Trabalho completo em eventos científicos nacionais, regional ou local",
+                "valor": 5,
+                "tags": ["trabalho_nac"]
+            }
+        ]
+    },
+    {
+        "limite": 50,
+        "itens":[
+            {
+                "descricao": "Resumo em evento científico - internacional",
+                "valor": 2,
+                "tags": ["resumo_inter"]
+            },
+            {
+                "descricao": "Resumo em evento científico - nacional, regional ou local",
+                "valor": 1,
+                "tags": ["resumo_nac"]
+            }
+        ]
+    },
+    {
+        "limite": 30,
+        "itens": [
+            {
+                "descricao": "Tradução de livro especializado com ISBN",
+                "valor": 10,
+                "tags": ["traducao_livro"]
+            }
+        ]
+    },
+    {
+        "limite": 600,
+        "itens": [
+            
+            {
+                "descricao": "Artes cênicas",
+                "valor": 10,
+                "tags": ["artes_cenicas"]
+            },
+            {
+                "descricao": "Artes visuais",
+                "valor": 10,
+                "tags": ["artes_visuais"]
+            },
+            {
+                "descricao": "Musica",
+                "valor": 10,
+                "tags": ["musica"]
+            },
+            {
+                "descricao": "Outra produção artística-cultural ",
+                "valor": 5,
+                "tags": ["outra_artistica"]
+            }
+        ]
+    },
+    {
+        "limite": 80,
+        "itens": [
+            {
+                "descricao": "Orientação de dissertação de mestrado defendida e aprovada",
+                "valor": 15,
+                "tags": ["orientacao_mestrado"]
+            }
+        ]
+    },
+    {
+        "limite": 10,
+        "itens": [
+            {
+                "descricao": "Coorientação de dissertação de mestrado defendida e aprovada",
+                "valor": 2,
+                "tags": ["coorientacao_mestrado"]
+            }
+        ]
+    },
+    {
+        "limite": 80,
+        "itens": [
+            {
+                "descricao": "Orientação de tese de doutorado defendida e aprovada",
+                "valor": 20,
+                "tags": ["orientacao_doutorado"]
+            }
+        ]
+    },
+    {
+        "limite": 16,
+        "itens": [
+            {
+                "descricao": "Coorientação de tese de doutorado defendida e aprovada",
+                "valor": 4,
+                "tags": ["coorientacao_doutorado"]
+            }
+        ]
+    },
+    {
+        "limite": 10,
+        "itens": [
+            {
+                "descricao": "Orientação de monografia de curso de aperfeiçoamento/especialização",
+                "valor": 2,
+                "tags": ["orientacao_monografia"]
+            }
+        ]
+    },
+    {
+        "limite": 40,
+        "itens": [
+            {
+                "descricao": "Orientação de trabalho de conclusão de curso de graduação",
+                "valor": 5,
+                "tags": ["orientacao_tcc"]
+            }
+        ]
+    },
+    {
+        "limite": 250,
+        "itens": [
+            {
+                "descricao": "Orientação concluída de iniciação científica (somente estudantes de graduação)",
+                "valor": 10,
+                "tags": ["orientacao_ic"]
+            }
+        ]
+    },
+    {
+        "limite": 60,
+        "itens": [
+            {
+                "descricao": "Registro ou depósito de patente ou cultivar",
+                "valor": 20,
+                "tags": ["prod_tecnica"]
+            }
+        ]
+    },
+    {
+        "limite": 50,
+        "itens": [
+            {
+                "descricao": "Organização de eventos, congressos, exposições, feiras ou olimpíadas",
+                "valor": 5,
+                "tags": ["organizacao_evento"]
+            }
+        ]
+    },
+    {
+        "limite": 10,
+        "itens": [
+            {
+                "descricao": "Entrevistas, mesas redondas, programas e comentários na mídia",
+                "valor": 2,
+                "tags": ["programa_radio_tv"]
+            }
+        ]
+    }
+]
