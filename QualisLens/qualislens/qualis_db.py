@@ -7,9 +7,10 @@ campos e expõe a função `buscar` para resolução de um artigo pelo ano de pu
 
 import logging
 import re
-import unicodedata
 from pathlib import Path
 from typing import Optional
+
+from utils import strip_accents as _strip_accents
 
 import pandas as pd
 
@@ -34,14 +35,6 @@ _COL_ESTRATO = "estrato"
 _COL_SIGLA_NORM = "sigla_norm"
 _COL_NOME_NORM = "nome_norm"
 _COL_QUADRIENIO = "quadrienio"
-
-
-def _strip_accents(text: str) -> str:
-    """Remove acentos de uma string Unicode."""
-    return "".join(
-        c for c in unicodedata.normalize("NFD", text)
-        if unicodedata.category(c) != "Mn"
-    )
 
 
 def _normalizar_campo(valor: object) -> str:

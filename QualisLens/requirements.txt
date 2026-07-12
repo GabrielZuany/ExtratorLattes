@@ -1,0 +1,7 @@
+pandas>=2.0
+rapidfuzz>=3.0
+requests>=2.28
+
+# dev / testes
+pytest>=7.0
+pytest-cov>=4.0

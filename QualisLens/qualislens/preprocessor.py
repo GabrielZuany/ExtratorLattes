@@ -9,8 +9,9 @@ Responsável por:
 """
 
 import re
-import unicodedata
 from typing import Optional
+
+from utils import strip_accents as _strip_accents
 
 # ── Mapa de abreviações → forma completa ─────────────────────────────────────
 # Ordenado do mais longo para o mais curto para evitar substituições parciais.
@@ -85,25 +86,6 @@ _RE_SIGLA_NOME = re.compile(
     r"^([A-Z0-9]{2,8})\s*[-–:]\s*(.+)$",
     re.UNICODE,
 )
-
-
-def _strip_accents(text: str) -> str:
-    """Remove acentos de uma string Unicode via decomposição NFD.
-
-    Parameters
-    ----------
-    text:
-        Texto de entrada.
-
-    Returns
-    -------
-    str
-        Texto sem acentos.
-    """
-    return "".join(
-        c for c in unicodedata.normalize("NFD", text)
-        if unicodedata.category(c) != "Mn"
-    )
 
 
 def extrair_acronimo(texto: str) -> str:
